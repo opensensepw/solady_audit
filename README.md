@@ -17,62 +17,20 @@
 ## Season 1
 ### Files to Audit
 - Milady.sol
-- utils/Clone.sol
-- utils/DateTimeLib.sol
-- utils/CREATE3.sol
-- utils/Base64.sol
-- tokens/WETH.sol
-- tokens/ERC721.sol
-- tokens/ERC4626.sol
-- tokens/ERC20.sol
-
-### Deliverables
-- Weekly report summarizing findings for audited files.
-- Documentation of vulnerabilities found and suggestions for improvements.
-
-## Season 2
-### Files to Audit
-- tokens/ERC1155.sol
-- utils/ERC1967FactoryConstants.sol
-- utils/ERC1967Factory.sol
-- utils/EIP712.sol
-- utils/ECDSA.sol
-- utils/DynamicBufferLib.sol
-- utils/LibSort.sol
-- utils/LibRLP.sol
-
-### Deliverables
-- Weekly report summarizing findings for audited files.
-- Documentation of vulnerabilities found and suggestions for improvements.
-
-## Season 3
-### Files to Audit
-- utils/LibPRNG.sol
-- utils/LibMap.sol
-- utils/LibClone.sol
-- utils/LibString.sol
-- utils/LibBitmap.sol
-- utils/LibBit.sol
-- auth/OwnableRoles.sol
-- auth/Ownable.sol
+- tokens\ERC721.sol
+- tokens\ERC20.sol
+- utils\SafeTransferLib.sol
+- tokens\WETH.sol
+- utils\EIP712.sol
+- utils\ERC1967FactoryConstants.sol
+- utils\LibRLP.sol
+- utils\Multicallable.sol
 
 
 ### Deliverables
 - Weekly report summarizing findings for audited files.
 - Documentation of vulnerabilities found and suggestions for improvements.
-
-## Season 4
-### Files to Audit
-- utils/SSTORE2.sol
-- utils/SignatureCheckerLib.sol
-- utils/SafeTransferLib.sol
-- utils/SafeCastLib.sol
-- utils/RedBlackTreeLib.sol
-- utils/Multicallable.sol
-- utils/MinHeapLib.sol
-- utils/MerkleProofLib.sol
 
 ## Responsible disclore
 
-## Payout distribution
 
